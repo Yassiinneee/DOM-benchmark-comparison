@@ -1,0 +1,6 @@
+{
+  "name": "DOM Benchmark: React, Angular, Vue & Svelte",
+  "description": "Interactive benchmark and educational lab comparing DOM manipulation, rendering performance, and memory footprints across React, Angular, Vue, and Svelte.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
